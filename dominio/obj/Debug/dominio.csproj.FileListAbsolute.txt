@@ -1,0 +1,6 @@
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\dominio\bin\Debug\dominio.dll
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\dominio\bin\Debug\dominio.pdb
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\dominio\obj\Debug\dominio.dll
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\dominio\obj\Debug\dominio.pdb

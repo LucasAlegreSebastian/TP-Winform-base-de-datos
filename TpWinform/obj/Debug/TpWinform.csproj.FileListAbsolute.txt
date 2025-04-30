@@ -1,0 +1,36 @@
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.csproj.AssemblyReference.cache
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.frmAdministrar.resources
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.frmArticulo.resources
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.frmAgregarArticulo.resources
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.Properties.Resources.resources
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.csproj.GenerateResource.cache
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.csproj.CoreCompileInputs.cache
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\bin\Debug\TpWinform.exe.config
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\bin\Debug\TpWinform.exe
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\bin\Debug\TpWinform.pdb
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\bin\Debug\dominio.dll
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\bin\Debug\negocio.dll
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\bin\Debug\dominio.pdb
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\bin\Debug\negocio.pdb
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.csproj.Up2Date
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.exe
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.pdb
+C:\Users\Anabella\OneDrive - frgp.utn.edu.ar\2025\Programacion 3\TPWinform\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.frmAdminAgreModElim.resources
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\bin\Debug\TpWinform.exe.config
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\bin\Debug\TpWinform.exe
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\bin\Debug\TpWinform.pdb
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\bin\Debug\dominio.dll
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\bin\Debug\negocio.dll
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\bin\Debug\dominio.pdb
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\bin\Debug\negocio.pdb
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.csproj.AssemblyReference.cache
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.frmAdministrar.resources
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.frmAdminAgreModElim.resources
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.frmArticulo.resources
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.frmAgregarArticulo.resources
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.Properties.Resources.resources
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.csproj.GenerateResource.cache
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.csproj.CoreCompileInputs.cache
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.csproj.Up2Date
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.exe
+C:\Users\Anabella\Desktop\tp-winform-equipo-12B\TpWinform\obj\Debug\TpWinform.pdb
